@@ -1,4 +1,15 @@
-# Uniswap Swap Example
+# Uniswap V3 Examples
+
+Implementation examples from Uniswap V3 docs.
+
+## Smart Contract Operations
+
+- Liquidity Mining
+- Swap (single, multihop)
+- Providing Liquidity (mint new prosition, collecting fees, dec/inc liquidity)
+- Flash Swaps
+
+## Usage
 
 Hardhat commands:
 
