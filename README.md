@@ -1,15 +1,22 @@
-# Uniswap V3 Examples
+# Uniswap V3 API Implementation <img src=".docs/logo.png" width=30/>
 
-Implementation examples from Uniswap V3 docs.
+Implementation from Uniswap V3 docs.
 
-## Smart Contract Operations
+### Smart Contract Operations
 
 - Liquidity Mining
 - Swap (single, multihop)
-- Providing Liquidity (mint new prosition, collecting fees, dec/inc liquidity)
+- Providing Liquidity (mint new position, collecting fees, dec/inc liquidity)
 - Flash Swaps
 
-## Usage
+### Setup
+
+```
+yarn install
+yarn dev
+```
+
+### Usage
 
 Hardhat commands:
 
