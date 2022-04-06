@@ -1,6 +1,6 @@
 # Uniswap V3 API Implementation <img src=".docs/logo.png" width=30/>
 
-Implementation from Uniswap V3 docs.
+Implementation from Uniswap V3 guides for [contracts](https://docs.uniswap.org/protocol/guides/local-environment) (without SDK)
 
 ### Smart Contract Operations
 
